@@ -1,0 +1,15 @@
+/* Sidebar.css */
+
+.sidebar {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    border-right: 1px solid #dee2e6;
+}
+
+.sidebar-col {
+    padding: 1rem;
+}
+
+.sidebar h5 {
+    font-weight: bold;
+}
